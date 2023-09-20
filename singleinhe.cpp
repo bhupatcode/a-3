@@ -24,7 +24,7 @@ class b:public a
 
 int main()
 {
-	b b1;
+	b b2;
 	
 	getch();
 }
